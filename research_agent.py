@@ -1,9 +1,6 @@
 import requests
-import os
 import subprocess
-import json
 import chromadb
-from chromadb.config import Settings
 from typing import List, Dict, Any
 import time
 

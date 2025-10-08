@@ -67,7 +67,6 @@ def setup_sidebar():
 
         st.markdown("---")
 
-        # Research History
         st.subheader("📚 Research History")
         if st.button("View Research History", use_container_width=True):
             view_research_history()
