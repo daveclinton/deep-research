@@ -20,7 +20,7 @@ with open("./assets/bright-data-logo.png", "rb") as brightdata_logo:
         <h1 style="margin: 0; padding: 0; font-size: 2.5rem; font-weight: bold;">
             <span style="font-size:2.5rem;">🔎</span> Deep Research Agent with
             <span style="color: #0000FF;">Bright Data</span> & 
-            <span style="color: #8564ff;">Llama</span>
+            <span style="color: #8564ff;">Ollama</span>
         </h1>
     </div>
     """
